@@ -48,11 +48,12 @@ This end-to-end data analysis project explores whether increasing prices next ye
 * A 25% price increase in 2022 led to a 64% rise in demand, showcasing strong customer interest despite higher prices.
 * Recommended a conservative price increase of 10-15% to sustain demand and maximize profitability.
 
-### **Dashboard Visualization**
-Here is a visual representation of the final Power BI Dashboard that showcases key performance indicators and actionable insights from the analysis:
+### Dashboard Visualization:
+Here is a visual representation of the final Power BI dashboard, highlighting key performance indicators (KPIs) such as seasonal revenue, hourly revenue trends, and rider demographics:
 
 ![image](https://github.com/user-attachments/assets/c44cc80f-042f-4621-8b26-94693e00f3ad)
 
 
 ### Publication:
-**Medium Article:** Provides an in-depth narrative of the project. Read the the full project analysis [here](https://soumya-thoutam.medium.com/revenue-and-demand-forecasting-analysis-a-data-driven-pricing-strategy-for-bike-share-43bb380c88ce).
+**Medium Article:** 
+Provides an in-depth narrative of the project. Read the the full project analysis [here](https://soumya-thoutam.medium.com/revenue-and-demand-forecasting-analysis-a-data-driven-pricing-strategy-for-bike-share-43bb380c88ce).
